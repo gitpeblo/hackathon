@@ -1,0 +1,11 @@
+# Original tests from collab
+collab
+
+# Dataset creation
+hackathon_dataset.ipynb
+
+# Utility to convert text to html
+convert_to_html.sh
+
+# Secret to participants
+data/bundle_assessment.pkl
