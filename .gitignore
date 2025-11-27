@@ -9,3 +9,6 @@ convert_to_html.sh
 
 # Secret to participants
 data/bundle_assessment.pkl
+
+# Jupyter metadata
+.ipynb_checkpoints/
