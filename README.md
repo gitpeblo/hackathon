@@ -2,7 +2,7 @@
 
 This repo contains the files for the Hackathon 2025.
 
-Open `hackathon.ipynb` directly in Google Colab:
+Open `hackathon.ipynb` directly in [Google Colab](https://colab.research.google.com/github/gitpeblo/hackathon/blob/main/hackathon.ipynb):
 - In Colab, go to `File > Open notebook > GitHub`.
 - Paste `https://github.com/gitpeblo/hackathon/blob/main/hackathon.ipynb` and open it from the repo listing.
 
